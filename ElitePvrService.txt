@@ -1,4 +1,23 @@
-jerry@gmail.com/vywkctdgENGLISH",AMC HD
+#EXTM3U
+#EXTINF:-1 tvg-name="5STAR MAX HD" tvg-id="5STAR MAX HD" tvg-logo="https://s3.amazonaws.com/ok2logo/5starmax.png" group-title="ENGLISH",5STAR MAX HD
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/382.ts
+#EXTINF:-1 tvg-name="A&E HD" tvg-id="A&E HD" tvg-logo="https://s3.amazonaws.com/ok2logo/ane.png" group-title="ENGLISH",A&E HD
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/347.ts
+#EXTINF:-1 tvg-name="ABC HD EAST" tvg-id="ABC HD EAST" tvg-logo="https://s3.amazonaws.com/ok2logo/abc.png" group-title="ENGLISH",ABC HD EAST
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/10.ts
+#EXTINF:-1 tvg-name="ABC HD WEST" tvg-id="ABC HD WEST" tvg-logo="https://s3.amazonaws.com/ok2logo/abc.png" group-title="ENGLISH",ABC HD WEST
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/306.ts
+#EXTINF:-1 tvg-name="ABC NEWS HD" tvg-id="ABC NEWS HD" tvg-logo="https://s3.amazonaws.com/ok2logo/abcnews.jpg" group-title="ENGLISH",ABC NEWS HD
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/3077.ts
+#EXTINF:-1 tvg-name="ABC SPARK HD" tvg-id="ABC SPARK HD" tvg-logo="https://s3.amazonaws.com/ok2logo/spark.jpg" group-title="ENGLISH",ABC SPARK HD
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/4063.ts
+#EXTINF:-1 tvg-name="ACTION HD" tvg-id="ACTION HD" tvg-logo="https://s3.amazonaws.com/ok2logo/action.png" group-title="ENGLISH",ACTION HD
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/370.ts
+#EXTINF:-1 tvg-name="ACTION MAX HD" tvg-id="ACTION MAX HD" tvg-logo="https://s3.amazonaws.com/ok2logo/actionmax.png" group-title="ENGLISH",ACTION MAX HD
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/383.ts
+#EXTINF:-1 tvg-name="ALJAZEERA ENGLISH" tvg-id="ALJAZEERA ENGLISH" tvg-logo="https://s3.amazonaws.com/ok2logo/aljazeera.png" group-title="ENGLISH",ALJAZEERA ENGLISH
+http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/1661.ts
+#EXTINF:-1 tvg-name="AMC HD" tvg-id="AMC HD" tvg-logo="https://s3.amazonaws.com/ok2logo/amc.png" group-title="ENGLISH",AMC HD
 http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/334.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-id="ANIMAL PLANET HD" tvg-logo="https://s3.amazonaws.com/ok2logo/animalplanet.png" group-title="ENGLISH",ANIMAL PLANET HD
 http://ok2.se:8000/live/jerry@gmail.com/vywkctdg/332.ts
