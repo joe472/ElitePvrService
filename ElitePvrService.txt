@@ -599,8 +599,8 @@ http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/4188.ts
 http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/4189.ts
 #EXTINF:-1 tvg-name="OSN SPORTS 4" tvg-id="OSN SPORTS 4"  group-title="SPORTS",OSN SPORTS 4
 http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/4190.ts
-#EXTINF:-1 tvg-name="PPV HD - BOXING: CANELO VS CHAVEZ JR 5/6 - 9PM EST" tvg-id="PPV HD - BOXING: CANELO VS CHAVEZ JR 5/6 - 9PM EST" tvg-logo="https://s3.amazonaws.com/ok2logo/ppv.png" group-title="SPORTS",PPV HD - BOXING: CANELO VS CHAVEZ JR 5/6 - 9PM EST
-http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/3240.ts
+#EXTINF:-1 tvg-name="PPV HD - UFC 214 - 7/29 10PM EST" tvg-id="PPV HD - UFC 214 - 7/29 10PM EST" tvg-logo="https://s3.amazonaws.com/ok2logo/ppv.png" group-title="SPORTS",PPV HD - UFC 214 - 7/29 10PM EST
+http://ok2.se:8000/live/trevorkarl@gmail.com/frzrrgvp/3240.ts
 #EXTINF:-1 tvg-name="PRIME TV" tvg-id="PRIME TV" tvg-logo="https://s3.amazonaws.com/ok2logo/prime.png" group-title="SPORTS",PRIME TV
 http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/196.ts
 #EXTINF:-1 tvg-name="PTV SPORTS" tvg-id="PTV SPORTS" tvg-logo="https://s3.amazonaws.com/ok2logo/ptvsports.png" group-title="SPORTS",PTV SPORTS
@@ -2853,7 +2853,7 @@ http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/1189.ts
 http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/3809.ts
 #EXTINF:-1 tvg-name="NDTV INDIA" tvg-id="NDTV INDIA"  group-title="HINDI",NDTV INDIA
 http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/3840.ts
-#EXTINF:-1 tvg-name="NDTV PROFIT" tvg-id="NDTV PROFIT" tvg-logo="http://192.99.40.50:80/ind/ndtvprofit/index.m3u8" group-title="HINDI",NDTV PROFIT
+#EXTINF:-1 tvg-name="NDTV PROFIT" tvg-id="NDTV PROFIT" tvg-logo="http://192.99.40.50:80/ind/ndtvprofit/index.ts" group-title="HINDI",NDTV PROFIT
 http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/3811.ts
 #EXTINF:-1 tvg-name="NEWS XD" tvg-id="NEWS XD"  group-title="HINDI",NEWS XD
 http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/3810.ts
@@ -3376,4 +3376,4 @@ http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/534.ts
 #EXTINF:-1 tvg-name="VH1 (PT)" tvg-id="VH1 (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/vh1.png" group-title="PORTUGUESE",VH1 (PT)
 http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/570.ts
 #EXTINF:-1 tvg-name="VH1 ClASSIC (PT)" tvg-id="VH1 ClASSIC (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/vh1classic.png" group-title="PORTUGUESE",VH1 ClASSIC (PT)
-http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/569.ts
+http://ok2.se:8000/live/     trevorkarl@gmail.com/ frzrrgvp/569.t
