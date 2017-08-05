@@ -3377,3 +3377,4 @@ http://ok1.se:8000/live/      raycorey76@gmail.com/qrkbymsg/534.ts
 http://ok1.se:8000/live/      raycorey76@gmail.com/qrkbymsg/570.ts
 #EXTINF:-1 tvg-name="VH1 ClASSIC (PT)" tvg-id="VH1 ClASSIC (PT)" tvg-logo="https://s3.amazonaws.com/ok1logo/vh1classic.png" group-title="PORTUGUESE",VH1 ClASSIC (PT)
 http://ok1.se:8000/live/      raycorey76@gmail.com/qrkbymsg/569.ts
+miscaelkadji/753900
