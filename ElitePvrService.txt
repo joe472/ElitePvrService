@@ -3377,3 +3377,7 @@ http://ok2.se:8000/live/        iptvsuper@gmail.com/rtbeqwwy/534.ts
 http://ok2.se:8000/live/        iptvsuper@gmail.com/rtbeqwwy/570.ts
 #EXTINF:-1 tvg-name="VH1 ClASSIC (PT)" tvg-id="VH1 ClASSIC (PT)" tvg-logo="https://s3.amazonaws.com/ok1logo/vh1classic.png" group-title="PORTUGUESE",VH1 ClASSIC (PT)
 http://ok2.se:8000/live/        iptvsuper@gmail.com/rtbeqwwy/569.ts
+#EXTINF:-1 tvg-name="PPV HD - UFC 215 - 9/9 10PM EST" tvg-id="PPV HD - UFC 215 - 9/9 10PM EST" tvg-logo="https://s3.amazonaws.com/ok2logo/ppv.png" group-title="SPORTS",PPV HD - UFC 215 - 9/9 10PM EST
+http://ok2.se:8000/live/iptvsuper@gmail.com/rtbeqwwy/3240.m3u8
+#EXTINF:-1 tvg-name="PPV HD - UFC 215 - 9/9 10PM EST (ES)" tvg-id="PPV HD - UFC 215 - 9/9 10PM EST (ES)" tvg-logo="https://s3.amazonaws.com/ok2logo/ppv.png" group-title="SPORTS",PPV HD - UFC 215 - 9/9 10PM EST (ES)
+http://ok2.se:8000/live/iptvsuper@gmail.com/rtbeqwwy/4876.m3u8
