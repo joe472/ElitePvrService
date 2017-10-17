@@ -3376,8 +3376,3 @@ http://ok1.se:8000/live/        SperTv@hotmail.org/qeauegtr/534.ts
 #EXTINF:-1 tvg-name="VH1 (PT)" tvg-id="VH1 (PT)" tvg-logo="https://s3.amazonaws.com/ok1logo/vh1.png" group-title="PORTUGUESE",VH1 (PT)
 http://ok1.se:8000/live/        SperTv@hotmail.org/qeauegtr/570.ts
 #EXTINF:-1 tvg-name="VH1 ClASSIC (PT)" tvg-id="VH1 ClASSIC (PT)" tvg-logo="https://s3.amazonaws.com/ok1logo/vh1classic.png" group-title="PORTUGUESE",VH1 ClASSIC (PT)
-http://ok1.se:8000/live/        SperTv@hotmail.org/qeauegtr/569.ts
-#EXTINF:-1 tvg-name="PPV HD - UFC 215 - 9/9 10PM EST" tvg-id="PPV HD - UFC 215 - 9/9 10PM EST" tvg-logo="https://s3.amazonaws.com/ok2logo/ppv.png" group-title="SPORTS",PPV HD - UFC 215 - 9/9 10PM EST
-http://ok1.se:8000/live/SperTv@hotmail.org/qeauegtr/3240.ts
-#EXTINF:-1 tvg-name="PPV HD - UFC 215 - 9/9 10PM EST (ES)" tvg-id="PPV HD - UFC 215 - 9/9 10PM EST (ES)" tvg-logo="https://s3.amazonaws.com/ok2logo/ppv.png" group-title="SPORTS",PPV HD - UFC 215 - 9/9 10PM EST (ES)
-http://ok1.se:8000/live/SperTv@hotmail.org/qeauegtr/4876.ts
